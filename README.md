@@ -1,6 +1,6 @@
 # AirIntel India — Full Stack MVP
 
-SIH26056 prototype: Real-time Airfare Price Index for India.
+project: Real-time Airfare Price Index for India.
 
 ## Fastest way to run
 1. Install Docker Desktop.
